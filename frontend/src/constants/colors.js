@@ -1,0 +1,25 @@
+const C = {
+  green: "#16a34a",
+  greenLight: "#dcfce7",
+  greenMid: "#22c55e",
+  amber: "#f59e0b",
+  amberLight: "#fef3c7",
+  blue: "#3b82f6",
+  blueLight: "#eff6ff",
+  purple: "#8b5cf6",
+  purpleLight: "#f5f3ff",
+  red: "#ef4444",
+  redLight: "#fef2f2",
+  g50: "#f9fafb",
+  g100: "#f3f4f6",
+  g200: "#e5e7eb",
+  g300: "#d1d5db",
+  g400: "#9ca3af",
+  g500: "#6b7280",
+  g600: "#4b5563",
+  g700: "#374151",
+  g800: "#1f2937",
+  white: "#ffffff",
+};
+
+export default C;
